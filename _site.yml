@@ -1,0 +1,7 @@
+name: "James' test website"
+output_dir: "."
+navbar:
+  title: "James' test website"
+  left:
+    - text: "Kernels"
+      href: 04_trackingworkshop_kernels.html
