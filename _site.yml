@@ -7,3 +7,9 @@ navbar:
     - href: index.html
     - text: "Kernels"
       href: 04_trackingworkshop_kernels.html
+output:
+  html_document:
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
