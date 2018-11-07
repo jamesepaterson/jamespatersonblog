@@ -3,5 +3,7 @@ output_dir: "."
 navbar:
   title: "James' test website"
   left:
+    - text: "Home"
+    - href: index.html
     - text: "Kernels"
       href: 04_trackingworkshop_kernels.html
